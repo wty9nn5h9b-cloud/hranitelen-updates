@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "latest": "4.0.2",
+  "minSupported": "4.0",
+  "dataSchema": 3,
+  "build": null,
+  "content": null,
+  "history": [
+    {
+      "version": "4.0.2",
+      "date": "2026-10-17",
+      "notes": [
+        "Обновяване на приложението от самото него"
+      ],
+      "kind": "app"
+    }
+  ],
+  "app": {
+    "version": "4.0.2",
+    "notes": "Обновяване на приложението от самото него",
+    "url": "app/4.0.2.html",
+    "sha256": "d992dc22fec028444782b260e46cf30534796535fbcd0490ed1051ee3f17f93e",
+    "size": 4168532,
+    "sig": "iwveoLqNohUGzs1ZVD7IyIts3IV5DuKrGch39ts2rJEsRfIbqNxczZZzK_mbjajv5ukBiSXS020NeCeQrT_MAQ",
+    "minShell": 1
+  }
+}
